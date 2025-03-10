@@ -51,7 +51,14 @@
   border-radius: 25px; 
   text-align: center; 
 }
-  
+
+.jumbo
+
+{width: 100%;
+  height: auto;
+  max-width: 5000px;
+}
+
   .head-box.central {
     flex-grow: 2;
   }

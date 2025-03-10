@@ -19,13 +19,34 @@
   }
   
   .head-box {
-    background-color: #f19b38;
+    background-color: #38dbf1;
     color: #000000;
-    padding: 15px;
+    padding: 5px;
     text-align: center;
     flex: 1;
-    border: #000000 dashed;
+   
   }
+
+  .horizontal-list {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+    gap: 70px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .accedi
+  {
+    background-color: #ffffff; 
+  color: #000000; 
+  padding: 10px 20px; 
+  cursor: pointer; 
+  font-size: 16px; 
+  border-radius: 25px; 
+  text-align: center; 
+}
   
   .head-box.central {
     flex-grow: 2;

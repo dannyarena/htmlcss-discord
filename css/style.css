@@ -9,7 +9,7 @@
      HEADER
   =========================== */
   header {
-    background-color: #38dbf1;
+    background-color: #050e76;
     color: #ffffff;
     padding: 25px;
     text-align: center;
@@ -19,7 +19,7 @@
   }
   
   .head-box {
-    background-color: #38dbf1;
+    background-color: #050e76;
     color: #000000;
     padding: 5px;
     text-align: center;
@@ -37,6 +37,10 @@
     align-items: center;
   }
   
+  .horizontal-list li a {
+    text-decoration: none;
+    color: #ffffff;
+  }
   .accedi
   {
     background-color: #ffffff; 
